@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@eslint/eslintrc": "^3.2.0",
+        "eslint": "^8.56.0",
+        "eslint-config-airbnb-base": "^15.0.0"
+    },
+    "devDependencies": {
+        "@eslint/create-config": "^1.4.0"
+    }
+}
